@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "productName": "Name-1",
+    "productDescription": "Lorem ipsum dolor sit ametQSvAIVLc7m6c",
+    "image": {
+      "width": 112,
+      "height": 191,
+      "url": "https://picsum.photos/112/191"
+    },
+    "price": 276
+  },
+  {
+    "id": 2,
+    "productName": "Name-2",
+    "productDescription": "Lorem ipsum dolor sit amethjLlGIAQODS2Ci",
+    "image": {
+      "width": 178,
+      "height": 169,
+      "url": "https://picsum.photos/178/169"
+    },
+    "price": 218
+  },
+  {
+    "id": 3,
+    "productName": "Name-3",
+    "productDescription": "Lorem ipsum dolor sit ametKksCoPsoWSbb8XuQ2aPFdjWKiO3PiXZad0CPieVDyt2m",
+    "image": {
+      "width": 117,
+      "height": 171,
+      "url": "https://picsum.photos/117/171"
+    },
+    "price": 785
+  },
+  {
+    "id": 4,
+    "productName": "Name-4",
+    "productDescription": "Lorem ipsum dolor sit ametYeWr5FUW7ME1SrsoDq3tF",
+    "image": {
+      "width": 175,
+      "height": 128,
+      "url": "https://picsum.photos/175/128"
+    },
+    "price": 12
+  },
+  {
+    "id": 5,
+    "productName": "Name-5",
+    "productDescription": "Lorem ipsum dolor sit ametBvR9IaYB5E",
+    "image": {
+      "width": 158,
+      "height": 189,
+      "url": "https://picsum.photos/158/189"
+    },
+    "price": 912
+  },
+  {
+    "id": 6,
+    "productName": "Name-6",
+    "productDescription": "Lorem ipsum dolor sit ametSy6g2we2DRXaPrUL4IELM6swGmSZAPe",
+    "image": {
+      "width": 186,
+      "height": 187,
+      "url": "https://picsum.photos/186/187"
+    },
+    "price": 711
+  },
+  {
+    "id": 7,
+    "productName": "Name-7",
+    "productDescription": "Lorem ipsum dolor sit ametcqQycNHJaWXavySy",
+    "image": {
+      "width": 115,
+      "height": 146,
+      "url": "https://picsum.photos/115/146"
+    },
+    "price": 223
+  },
+  {
+    "id": 8,
+    "productName": "Name-8",
+    "productDescription": "Lorem ipsum dolor sit ametTkXiFjx8W6ku2HcgMdcSD",
+    "image": {
+      "width": 130,
+      "height": 160,
+      "url": "https://picsum.photos/130/160"
+    },
+    "price": 969
+  },
+  {
+    "id": 9,
+    "productName": "Name-9",
+    "productDescription": "Lorem ipsum dolor sit ametSHcoeXFrkTlKZgZmQ20cDu4RV6o1bmuGQO22ShVWozu",
+    "image": {
+      "width": 175,
+      "height": 132,
+      "url": "https://picsum.photos/175/132"
+    },
+    "price": 102
+  },
+  {
+    "id": 10,
+    "productName": "Name-10",
+    "productDescription": "Lorem ipsum dolor sit ametlsLkN132fERJhi",
+    "image": {
+      "width": 155,
+      "height": 195,
+      "url": "https://picsum.photos/155/195"
+    },
+    "price": 221
+  }
+]
